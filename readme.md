@@ -1,1 +1,1 @@
-This is hw #2. Submitted by Grace Hsu.
+This is hw #2. Submitted by Grace Hsu.For the yearly change, I talked with Ryan (TA) about decimal places and said that the 2 decimal place was okay.
